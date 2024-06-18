@@ -1,0 +1,30 @@
+1.  B,C,D.
+2.  C.
+3.  C.
+4.  A,D.
+5.  Una llave primaria es el identificador ùnico de una entidad o una tabla, la llave fòranea es un atributo de una entidad dèbil por medio del cuàl se relaciona la informaciòn de esta entidad con el identificador ùnico de una tabla fuerte.
+6.  B.
+7. El proposito de la herencia en el diagrama ER extendido es la reutilización de atributos del supertipo por parte de sus subtipos, graficamente es fácil de ver ya que el supertipo se encuentra en el nivel superior del diagrama y lso subtipos se conectan directamente con él.
+8.  C.
+9.  A,B,C.
+10. 
+11. C.
+12. A,B,C.
+13. B.
+14. Un diagrama entidad relaciòn es un modelo gràfico que define la composiciòn de una base de datos de forma màs entendible que un diagrama relacional.
+15. A.
+16. A,C.
+17. C.
+18. B.
+19. Una relación identificativa nos indica que la entidqad hija depende de la entidad padre, pero en una relación no identificativa cada entidad es independiente. Por ejemplo la relacion de las entidades automovil y dueño es no identificativa por que ambas son independientes, pero la relacion de las entidades automovil motor es identificativa.
+20. B,D.
+21. A.
+22. A,B,D,E.
+23. En un diagrama ER, la cardinalidad representa la cantidad de instancias de una entidad que pueden tener relaciòn con otra u otras instancias de otra entidad. La cardinalidad puede ser definida como uno a uno, uno a muchos o muchos a muchos.
+24. C.
+25. A,C,E.
+26. D.
+27. Una relación recursiva indica la relación de una instancia de una entidad con otra instancia de la misma entidad. Un ejemplo de la vida real es que una instancia de la entidad empleados puede supervisar las demas instancias de la misma entidad.
+28. C.
+29. A,C.
+
